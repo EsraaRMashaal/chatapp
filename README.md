@@ -14,14 +14,14 @@ This is a simple Django-based chat application that allows users to create chat 
 
 Follow these steps to set up and run the project:
 
-### 1. Clone the Repository
+1. **Clone the Repository**:
 
 ```sh
-git clone https://github.com/EsraaRMashaal/PyramidsPharmacy.git
+git clone https://github.com/EsraaRMashaal/chatapp.git
 cd djangoproject
 ```
 
-1. **Create a virtual environment**:
+2. **Create a virtual environment**:
    ```bash
    # Create a virtual environment named 'venv'
    py -m venv venv
