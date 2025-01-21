@@ -43,6 +43,13 @@ cd djangoproject
    pip install -r requirements.txt
    ```
 
+
+## Screenshots
+
+### Database after migrations
+![Database](screenshots/Database.png)
+
+
 ## Contributing
 
 Contributions are welcome! please feel free to submit a Pull Request. 
