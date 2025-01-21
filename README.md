@@ -47,7 +47,7 @@ cd djangoproject
 ## Screenshots
 
 ### Database after migrations
-![Database](screenshots/database.png)
+![Database](screenshots/Database.PNG)
 
 
 ## Contributing
