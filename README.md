@@ -1,4 +1,4 @@
-# Django App
+# Chat App
 
 ## Overview
 
@@ -47,7 +47,7 @@ cd djangoproject
 ## Screenshots
 
 ### Database after migrations
-![Database](screenshots/Database.png)
+![Database](screenshots/database.png)
 
 
 ## Contributing
