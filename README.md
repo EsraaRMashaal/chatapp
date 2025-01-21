@@ -49,6 +49,11 @@ cd djangoproject
 ### Database after migrations
 ![Database](screenshots/Database.PNG)
 
+## Enhancements
+1. **We should add database varibale in env file**
+2. **Enable Logging for Production**
+3. **Add Docker Support**
+4. **Add Authuntications**
 
 ## Contributing
 
